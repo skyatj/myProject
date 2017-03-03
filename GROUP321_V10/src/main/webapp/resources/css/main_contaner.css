@@ -1,0 +1,19 @@
+#container {
+	width: 950px;
+	margin: auto;
+}
+
+.column_top {
+	width: 100%;
+	height: 300px;
+}
+
+.column_right {
+	width: 80%;
+	float: right;
+}
+
+.column_left {
+	width: 20%;
+	float: left;
+}
